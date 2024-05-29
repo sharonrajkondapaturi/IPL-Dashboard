@@ -1,0 +1,40 @@
+.recent-background {
+  background-color: #1e293b;
+  border-radius: 10px;
+  list-style: none;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  min-width: 270px;
+  max-width: 270px;
+  min-height: 430px;
+  max-height: 430px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.recent-team {
+  height: 100px;
+  width: 100px;
+}
+.recent-detail1 {
+  color: #ffffff;
+  font-family: Bree Serif;
+  text-align: center;
+  font-weight:bold;
+}
+.recent-detail {
+  color: #ffffff;
+  font-family: Bree Serif;
+  text-align: center;
+}
+.lost {
+  color: #e31a1a;
+  font-family: Bree Serif;
+  text-align: center;
+}
+.won {
+  color: #18ed66;
+  font-family: Bree Serif;
+}

@@ -1,0 +1,119 @@
+.color2 {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color3 {
+  background-image: linear-gradient(to bottom, #5755a7, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color4 {
+  background-image: linear-gradient(to bottom, #dc1c1f, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color5 {
+  background-image: linear-gradient(to bottom, #f7db00, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color6 {
+  background-image: linear-gradient(to bottom, #ffffff33, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.color7 {
+  background-image: linear-gradient(to bottom, #da237b, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color8 {
+  background-image: linear-gradient(to bottom, #13418b, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color9 {
+  background-image: linear-gradient(to bottom, #f26d22, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.color10 {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.color11 {
+  background-image: linear-gradient(to bottom, #0f172a, #1e293b);
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+  min-height: 100vh;
+}
+.team-image {
+  height: 400px;
+  width: 1150px;
+  align-self: center;
+}
+.para {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-weight: bold;
+}
+.recent-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

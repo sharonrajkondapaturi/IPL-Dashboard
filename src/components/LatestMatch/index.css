@@ -1,0 +1,33 @@
+.detail {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-size: cover;
+  padding: 10px;
+  width: 1100px;
+  height: 400px;
+  border-radius: 10px;
+}
+.sub-head {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-weight: bold;
+}
+.sub-detail {
+  color: #ffffff;
+  font-family: Bree Serif;
+}
+.team-lo {
+  height: 180px;
+  width: 180px;
+}
+.head {
+  color: #ffffff;
+  font-family: Bree serif;
+}
+.match-de {
+  color: #ffffff;
+  font-family: Bree serif;
+}
